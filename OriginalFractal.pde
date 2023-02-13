@@ -6,12 +6,12 @@ public void draw(){
   background(#D4B7E8);
   color(#C97070);
   fill(#F76666);
-  rose(125, 250, 300);
-  rose(250, 125, 300);
-  rose(375, 250, 300);
-  rose(250, 375, 300);
+  rose(125, 250, 240);
+  rose(250, 125, 240);
+  rose(375, 250, 240);
+  rose(250, 375, 240);
   fill(#F5D14D);
-  rose(250, 250, 210);
+  rose(250, 250, 150);
 }
 public void rose(float x, float y, float siz){
   if(siz <= 20){
